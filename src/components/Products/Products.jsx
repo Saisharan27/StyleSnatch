@@ -57,7 +57,7 @@ const Products = () => {
         <div className='text-center mb-10 max-w[600px] mx-auto'>
             <p data-aos="fade-up" className='text-sm text-primary'>Top Selling Products for you</p>
             <h1 data-aos="fade-up" className='text-3xl font-bold'>Products</h1>
-            <p data-aos="fade-up" className='text-xs text-gray-400'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt modi, corporis saepe aspernatur voluptates adipisci!</p>
+            <p data-aos="fade-up" className='text-xs text-gray-400'>Lorem ipsum dolor amet consectetur adipisicing elit. Deserunt modi, corporis saepe aspernatur voluptates adipisci!</p>
         </div>
         {/* body section */}
         <div>
